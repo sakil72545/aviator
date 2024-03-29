@@ -6,7 +6,7 @@ Level up your Aviator game! This bot employs its prediction prowess to help you 
 - Absolutely Free: Enjoy the benefits of this powerful bot at absolutely no cost.
 
 ## How to Use
-- Add the [bot (click me)](https://t.me/aviatorpredia) to your telegram and start a conversation.
+- Add the [bot (click me)](https://t.me/avnetswork) to your telegram and start a conversation.
 - Get your client seed. This can be found within the settings.
 - Send the client seed to the bot. Use the command /set {your client seed}
 - Receive predictions! Get accurate signals before each Aviator round begins.
